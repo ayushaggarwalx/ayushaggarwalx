@@ -174,7 +174,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
 
   <!-- Buy Me a Coffee Button -->
-  <a href="https://buymeacoffee.com/dhruvsoni">
+  <a href="https://buymeacoffee.com/">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy me a coffee" />
   </a>
 </div>
