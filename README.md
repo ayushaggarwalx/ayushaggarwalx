@@ -48,7 +48,102 @@ Here are some ideas to get you started:
 <!-- Tech Stack -->
 <h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
+<table> 
+  <tr>
+    <th align="left">AI/ML & Data Science</th>
+    <td> 
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python3" alt="Python" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;
+      <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" title="Seaborn" alt="Seaborn" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="60" height="60"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp;
+    </td>
+  </tr>
 
+  <tr>
+    <th align="left">LLM Libraries&Frameworks</th>
+    <td> 
+      <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" title="OpenAI" alt="OpenAI" width="60" height="60"/>&nbsp;
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face" alt="Hugging Face" width="60" height="60"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" title="LangChain" alt="LangChain" width="60" height="60"/>&nbsp;
+      <img src="https://ollama.ai/public/ollama.png" title="Ollama" alt="Ollama" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" title="LlamaIndex" alt="LlamaIndex" width="60" height="60"/>&nbsp;
+      <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" title="Pinecone" alt="Pinecone" width="60" height="60"/>&nbsp;
+    </td>
+</tr>
+
+<tr>
+    <th align="left">AI Tools</th>
+    <td> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" alt="ChatGPT" width="60" height="60"/>&nbsp;
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" title="Claude (Anthropic)" alt="Claude (Anthropic)" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" title="Gemini" alt="Gemini" width="60" height="60"/>&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" title="Meta Llama" alt="Meta Llama" width="80" height="60"/>&nbsp;
+    </td>
+</tr>
+
+<tr>
+    <th align="left">Frontend + Backend Development</th>
+    <td> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
+      <img src="https://miro.medium.com/v2/resize:fit:1200/0*ZyNCgciUPSfXcxj7.png" title="Streamlit" alt="Streamlit" width="80" height="60"/>&nbsp;
+    </td>
+</tr>
+
+<tr>
+    <th align="left">Databases</th>
+    <td> 
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+    </td>
+</tr>
+
+<tr>
+    <th align="left">Cloud and Infrastructure</th>
+    <td> 
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="60" height="60"/>&nbsp;
+      <img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" width="60" height="60"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+      <img src="https://avatars1.githubusercontent.com/u/9919?v=4" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>&nbsp;
+    </td>
+</tr>
+
+</table>
+
+<br>
+
+## 🏆 Featured Projects
+
+<table border="0">
+ <tr>
+    <td align="center">House Price Prediction</td>
+    <td align="center">Olympic Data Analysis</td>
+ </tr>
+ <tr>
+    <td align="center"><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/HPP.png" /></td>
+    <td align="center"><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/ODA.png" /></td>
+ </tr>
+   <tr>
+    <td align="center">PDF Text Summarizer App</td>
+    <td align="center">Next Project?</td>
+ </tr>
+ <tr>
+    <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/PSA.png" /></td>
+    <td align="center"><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/billiondollars.gif" />
+    <strong>Let's collaborate on something amazing!</strong>
+    </td>
+ </tr>
+</table>
 
 
 
