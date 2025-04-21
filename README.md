@@ -59,9 +59,9 @@ Here are some ideas to get you started:
       <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" title="Seaborn" alt="Seaborn" width="60" height="60"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="60" height="60"/>&nbsp;
       <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp;
+<!--       <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="60" height="60"/>&nbsp; -->
       <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="60" height="60"/>&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp;
+<!--       <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>&nbsp; -->
     </td>
   </tr>
 
