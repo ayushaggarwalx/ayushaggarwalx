@@ -145,7 +145,38 @@ Here are some ideas to get you started:
  </tr>
 </table>
 
+<br>
 
+## Important Certifications
 
+<table border="0">
+<tr>
+  <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/AE_Data.png" /></td>
+  <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/DSA_Data.png" /></td>
+</tr>
+ <tr>
+    <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/ML_Course.png" /></td>
+    <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/GAI_BC.png" /></td>
+ </tr>
+ <tr>
+    <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/GoogleDA_Course.png" /></td>
+    <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/python_Course.png" /></td>
+ </tr>
+ </table>
+
+<br>
+
+## Support Me
+
+<div align="center">
+
+  <!-- Optional decorative SVG -->
+  <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
+
+  <!-- Buy Me a Coffee Button -->
+  <a href="https://buymeacoffee.com/dhruvsoni">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy me a coffee" />
+  </a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
