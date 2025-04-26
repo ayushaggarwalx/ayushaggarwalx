@@ -155,8 +155,8 @@ Here are some ideas to get you started:
   <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/DSA_Data.png" /></td>
 </tr>
  <tr>
+    <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/DL_Course.png" /></td>
     <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/ML_Course.png" /></td>
-    <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/GAI_BC.png" /></td>
  </tr>
  <tr>
     <td><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/GoogleDA_Course.png" /></td>
