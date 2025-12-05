@@ -126,12 +126,12 @@ Here are some ideas to get you started:
 
 <table border="0">
  <tr>
+    <td align="center">RAG Agent</td>
     <td align="center">House Price Prediction</td>
-    <td align="center">Olympic Data Analysis</td>
  </tr>
  <tr>
+    <td align="center"><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/RAG.png" /></td>
     <td align="center"><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/HPP.png" /></td>
-    <td align="center"><img src="https://github.com/ayushaggarwalx/ayushaggarwalx/blob/main/assets/ODA.png" /></td>
  </tr>
    <tr>
     <td align="center">PDF Text Summarizer App</td>
